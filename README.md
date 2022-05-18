@@ -10,7 +10,7 @@ Atualmente estou cursando Análise e desenvolvimento de sistemas. 💻<br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucemyjr&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center"><br>
-  <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
