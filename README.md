@@ -1,9 +1,9 @@
 <div align="center">
 Olá Mundo! 🖖 <br>
 Me chamo Lucemy. <br>
-Atualmente estou cursando Análise e desenvolvimento de sistemas. 💻<br><br>
-</div>
-
+Atualmente estou cursando Análise e desenvolvimento de sistemas. 💻
+Gosto muito de design e de realizar projetos front-end
+<br><br>
 </div>
 <div align="center"><br>
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
