@@ -2,7 +2,7 @@
 Olá Mundo! 🖖 <br>
 Me chamo Lucemy. <br>
 Atualmente estou cursando Análise e desenvolvimento de sistemas. 💻<br>
-Gosto muito de design e de realizar projetos front-end
+Gosto muito de design e de realizar projetos front-end.
 <br><br>
 </div>
 <div align="center"><br>
