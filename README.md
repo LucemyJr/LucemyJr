@@ -13,8 +13,12 @@ Gosto muito de design e de realizar projetos front-end.
   
 </div>
 
-  ![Lucemy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucemyJr&show_icons=true&theme=cobalt)
-  [![Lucemy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/LucemyJr/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucemyJr&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucemyJr&repo=convoychat" />
+</a>
 
   ##
   
