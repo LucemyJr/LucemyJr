@@ -13,7 +13,7 @@ Gosto muito de design e de realizar projetos front-end.
   
 </div>
 
-  [Lucemy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucemyJr&show_icons=true&theme=cobalt)
+  ![Lucemy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucemyJr&show_icons=true&theme=cobalt)
 
   ##
   
