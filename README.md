@@ -11,7 +11,8 @@ Gosto muito de design e de realizar projetos front-end.
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
+  ##
+  ![Lucemy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucemyJr&show_icons=true&theme=radical)
   ##
   
 <div align="center">
