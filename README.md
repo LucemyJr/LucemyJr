@@ -1,8 +1,8 @@
 <div align="center">
-Olá Mundo! 🖖 <br>
-Me chamo Lucemy. <br>
-Atualmente estou cursando Análise e desenvolvimento de sistemas. 💻<br>
-Gosto muito de design e de realizar projetos front-end.
+Hello World! 🖖 <br>
+My name is Lucemy. <br>
+I am currently studying Systems Analysis and Development. 💻<br>
+I really like design and front-end programming and every day I try to increase my knowledge in other languages.
 <br><br>
 </div>
 <div align="center"><br>
