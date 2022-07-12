@@ -21,9 +21,12 @@ in my spare time i study programming to increase my knowledge and i also like to
 
 ## 💻 Main Projects
 
+  
 - You can see it and more on my <a href="https://lucemyjr.github.io/portifolio/" target="_blank">Official Portfolio</a> with my Curriculum at the end.
 
-<br><br>
+##
+  
+<br>
 </div>
 <div align="center"><br>
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,16 +35,16 @@ in my spare time i study programming to increase my knowledge and i also like to
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 </div>
-<br>
-
-  ##
+<br><br>
   
-  <div>
+  <div align="center">
   <a href="https://github.com/LucemyJr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucemyJr&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucemyJr&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=LucemyJr&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucemyJr&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
+<br><br>
+  
   ##
   
 <div align="center">
