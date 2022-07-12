@@ -1,8 +1,28 @@
 <div align="center">
-Hello World! 🖖 <br>
-My name is Lucemy. <br>
-I am currently studying Systems Analysis and Development. 💻<br>
-I really like design and front-end programming and every day I try to increase my knowledge in other languages.
+Hello World! Welcome! 🤙 
+I'm honored to have you on my humble github
+
+![](https://ripgvc.herokuapp.com/?username=LucemyJr&color=333333)
+
+## 🧑🏻 Public Information
+
+My name is Lucemy Ferreira. I currently live in Recife, Brazil and i'm studying systems analysis and development.
+in my spare time i study programming to increase my knowledge and i also like to watch videos related to computer hardware.
+
+
+## 🖖 Detailed Information
+
+* **Name**: Lucemy Ferreira
+* **Age**: 19
+* **Living in**: Recife, Brazil
+* **Stack**: Javascript - HTML - CSS 
+* **Learning**: ReactJS - NextJS - MongoDB - React Native
+* **Dev**: Front-end Software Developer
+
+## 💻 Main Projects
+
+- You can see it and more on my <a href="https://lucemyjr.github.io/portifolio/" target="_blank">Official Portfolio</a> with my Curriculum at the end.
+
 <br><br>
 </div>
 <div align="center"><br>
@@ -13,12 +33,6 @@ I really like design and front-end programming and every day I try to increase m
   
 </div>
 <br>
-
-<div align="center">
-  <a href="https://github.com/LucemyJr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucemyJr&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucemyJr&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
 
   ##
   
