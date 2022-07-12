@@ -39,8 +39,8 @@ in my spare time i study programming to increase my knowledge and i also like to
   
   <div align="center">
   <a href="https://github.com/LucemyJr">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=LucemyJr&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucemyJr&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucemyJr&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucemyJr&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 <br><br>
