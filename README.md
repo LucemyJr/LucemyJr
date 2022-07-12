@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 Hello World! Welcome! 🤙 
 I'm honored to have you on my humble github
 
