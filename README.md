@@ -56,3 +56,5 @@ in my spare time i study programming to increase my knowledge and i also like to
   <a href = "mailto:contatolucemy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/lucemyFR" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div> 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3042&height=120&section=footer"/>
