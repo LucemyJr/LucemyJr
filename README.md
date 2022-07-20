@@ -16,7 +16,7 @@ in my spare time i study programming to increase my knowledge and i also like to
 * **Age**: 19
 * **Living in**: Recife, Brazil
 * **Stack**: Javascript - HTML - CSS 
-* **Learning**: ReactJS - NextJS - MongoDB - React Native
+* **Learning**: ReactJS - TypeScript - NodeJS - Bootstrap
 * **Dev**: Front-end Software Developer
 
 ## 💻 Main Projects
