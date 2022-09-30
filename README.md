@@ -4,7 +4,7 @@ I'm honored to have you on my humble github.<br>
 
 ![](https://ripgvc.herokuapp.com/?username=LucemyJr&color=333333)
 
-## 🧑🏻 Public Information
+## 👦🏻 Public Information
 
 My name is Lucemy Ferreira. I currently live in Recife, Brazil and i'm studying systems analysis and development.
 in my spare time i study programming to increase my knowledge and i also like to watch videos related to computer hardware.
@@ -16,7 +16,7 @@ in my spare time i study programming to increase my knowledge and i also like to
 * **Age**: 19
 * **Living in**: Recife, Brazil
 * **Stack**: Javascript - HTML - CSS 
-* **Learning**: ReactJS - TypeScript - NodeJS - Bootstrap
+* **Learning**: ReactJS - SQL - Java
 * **Dev**: Front-end Software Developer
 
 ## 💻 Main Projects
@@ -33,7 +33,8 @@ in my spare time i study programming to increase my knowledge and i also like to
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
 </div>
 <br><br>
