@@ -22,8 +22,7 @@ in my spare time i study programming to increase my knowledge and i also like to
 ## 💻 Main Projects
 
   
-- You can see it and more on my <a href="https://lucemyjr.github.io/Portifolio-Oficial/" target="_blank">Official Portfolio</a> (it's not responsive yet
-).
+- You can see it and more on my <a href="https://lucemyjr.github.io/Portifolio-Oficial/" target="_blank">Official Portfolio</a> 😎
 
 ##
   
