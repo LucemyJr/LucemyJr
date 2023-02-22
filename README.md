@@ -13,7 +13,7 @@ in my spare time i study programming to increase my knowledge and i also like to
 ## 🖖 Detailed Information
 
 * **Name**: Lucemy Ferreira
-* **Age**: 19
+* **Age**: 20
 * **Living in**: Recife, Brazil
 * **Stack**: Javascript - HTML - CSS 
 * **Learning**: ReactJS - SQL - Java
