@@ -10,8 +10,8 @@ My name is Lucemy Ferreira. I currently live in Recife, Brazil and am studying s
 * **Name**: Lucemy Ferreira
 * **Age**: 20
 * **Living in**: Recife, Brazil
-* **Stack**: Python - Excel
-* **Learning**: Power BI - PostgreSQL
+* **Stack**: Python - Excel - Javascript - React
+* **Learning**: PostgreSQL
 
 ## 💻 Main Projects
   
