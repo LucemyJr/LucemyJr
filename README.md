@@ -34,8 +34,7 @@ My name is Lucemy Ferreira. I currently live in Recife, Brazil and am studying s
 </div>
 <br><br>
   
-  <div align="center">
-  <a href="https://github.com/LucemyJr">
+<div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucemyJr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucemyJr&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
