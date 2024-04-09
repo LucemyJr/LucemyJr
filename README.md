@@ -11,7 +11,7 @@ My name is Lucemy Ferreira. I currently live in Recife, Brazil and am studying s
 * **Age**: 21
 * **Living in**: Recife, Brazil
 * **Stack**: HTML - CSS - Javascript
-* **Learning**: React-Js
+* **Learning**: React-Js - Typescript
 
 ## 💻 Main Projects
   
