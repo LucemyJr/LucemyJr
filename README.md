@@ -10,8 +10,8 @@ My name is Lucemy Ferreira. I currently live in Recife, Brazil and am studying s
 * **Name**: Lucemy Ferreira
 * **Age**: 21
 * **Living in**: Recife, Brazil
-* **Stack**: HTML - CSS - Javascript
-* **Learning**: React-Js - Typescript
+* **Stack**: Python - SQL - Typescript
+* **Learning**: Power BI
 
 ## 💻 Main Projects
   
@@ -29,6 +29,7 @@ My name is Lucemy Ferreira. I currently live in Recife, Brazil and am studying s
   <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Power BI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   
 </div>
 <br><br>
