@@ -2,7 +2,7 @@
 
 ## 👦🏻 Public Information
 
-My name is Lucemy Ferreira. I currently live in Recife, Brazil and am studying systems analysis and development. I'm currently studying to become a data analyst and in my free time I like to watch videos related to computer hardware.
+My name is Lucemy Ferreira. I’m based in Recife, Brazil, and I hold a degree in Systems Analysis and Development. Currently, I’m focusing on building a career as a data analyst, exploring tools like Python, SQL, Excel, and Power BI. In my free time, I enjoy watching videos about computer hardware and staying updated on technology trends.
 
 
 ## 🖖 Detailed Information
